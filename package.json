@@ -1,0 +1,23 @@
+{
+  "name": "keliu-eismo-taisykles",
+  "version": "1.0.0",
+  "description": "https://e-seimas.lrs.lt/rs/actualedition/TAIS.203613/YAaverzEYr/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonassank/keliu-eismo-taisykles.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simonassank/keliu-eismo-taisykles/issues"
+  },
+  "homepage": "https://github.com/simonassank/keliu-eismo-taisykles#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.83.0"
+  }
+}
